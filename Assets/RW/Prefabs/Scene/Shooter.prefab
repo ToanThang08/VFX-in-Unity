@@ -50,7 +50,7 @@ MonoBehaviour:
   shotSFX: {fileID: 8300000, guid: c74eea4a50a1e4e34aebfc5008f9feea, type: 3}
   selectedMuzzle: 0
   muzzlePrefab: []
-  selectedImpact: 0
+  selectedImpact: 1
   impactPrefab: []
   selectedProjectile: 0
   projectilePrefab:
